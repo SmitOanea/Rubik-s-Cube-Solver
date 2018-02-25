@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: colturi, Configuration: Debug Any CPU ------
+1>  colturi -> G:\modificat\colturi\colturi\bin\Debug\colturi.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

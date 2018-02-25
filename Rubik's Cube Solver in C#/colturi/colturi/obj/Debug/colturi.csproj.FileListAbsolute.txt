@@ -1,0 +1,80 @@
+D:\Programare\C#\colturi\colturi\bin\Debug\colturi.exe.config
+D:\Programare\C#\colturi\colturi\bin\Debug\colturi.exe
+D:\Programare\C#\colturi\colturi\bin\Debug\colturi.pdb
+D:\Programare\C#\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+D:\Programare\C#\colturi\colturi\obj\Debug\colturi.Form1.resources
+D:\Programare\C#\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+D:\Programare\C#\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+D:\Programare\C#\colturi\colturi\obj\Debug\colturi.exe
+D:\Programare\C#\colturi\colturi\obj\Debug\colturi.pdb
+G:\colturi\colturi\bin\Debug\colturi.exe.config
+G:\colturi\colturi\obj\Debug\colturi.exe
+G:\colturi\colturi\obj\Debug\colturi.pdb
+E:\12A\colturi\colturi\bin\Debug\colturi.exe.config
+E:\12A\colturi\colturi\obj\Debug\colturi.exe
+E:\12A\colturi\colturi\obj\Debug\colturi.pdb
+E:\12A\colturi\colturi\bin\Debug\colturi.exe
+E:\12A\colturi\colturi\bin\Debug\colturi.pdb
+E:\12A\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+E:\12A\colturi\colturi\obj\Debug\colturi.Form1.resources
+E:\12A\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+E:\12A\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+G:\modificat\colturi\colturi\bin\Debug\colturi.exe.config
+G:\modificat\colturi\colturi\obj\Debug\colturi.exe
+G:\modificat\colturi\colturi\obj\Debug\colturi.pdb
+G:\modificat\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+G:\modificat\colturi\colturi\obj\Debug\colturi.Form1.resources
+G:\modificat\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+G:\modificat\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+G:\modificat\colturi\colturi\bin\Debug\colturi.exe
+G:\modificat\colturi\colturi\bin\Debug\colturi.pdb
+C:\Users\Elev1\Desktop\colturi\colturi\colturi\bin\Debug\colturi.exe.config
+C:\Users\Elev1\Desktop\colturi\colturi\colturi\obj\Debug\colturi.exe
+C:\Users\Elev1\Desktop\colturi\colturi\colturi\obj\Debug\colturi.pdb
+E:\colturi\colturi\bin\Debug\colturi.exe.config
+E:\colturi\colturi\obj\Debug\colturi.exe
+E:\colturi\colturi\obj\Debug\colturi.pdb
+E:\colturi\colturi\bin\Debug\colturi.exe
+E:\colturi\colturi\bin\Debug\colturi.pdb
+E:\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+E:\colturi\colturi\obj\Debug\colturi.Form1.resources
+E:\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+E:\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+G:\colturi\colturi\bin\Debug\colturi.exe
+G:\colturi\colturi\bin\Debug\colturi.pdb
+G:\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+G:\colturi\colturi\obj\Debug\colturi.Form1.resources
+G:\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+G:\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+J:\colturi\colturi\bin\Debug\colturi.exe.config
+J:\colturi\colturi\obj\Debug\colturi.exe
+J:\colturi\colturi\obj\Debug\colturi.pdb
+J:\colturi\colturi\bin\Debug\colturi.exe
+J:\colturi\colturi\bin\Debug\colturi.pdb
+J:\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+J:\colturi\colturi\obj\Debug\colturi.Form1.resources
+J:\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+J:\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+D:\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.exe.config
+D:\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.exe
+D:\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.pdb
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.exe.config
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.exe
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.pdb
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.Form1.resources
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.csproj.CoreCompileInputs.cache
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.exe
+F:\DinCalculator-Decembrie2017\de pe H\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.pdb
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.exe.config
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.exe
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\bin\Debug\colturi.pdb
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.csprojResolveAssemblyReference.cache
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.Form1.resources
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.Properties.Resources.resources
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.csproj.GenerateResource.Cache
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.csproj.CoreCompileInputs.cache
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.exe
+D:\Programare\C#\Atestat - Oanea\ReparatBuffer\colturi\colturi\obj\Debug\colturi.pdb
