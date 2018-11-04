@@ -1,5 +1,5 @@
 # Rubik-s-Cube-Solver
-A little program in C# that solves a rubik's cube now matter how it was shuffled. It uses a method that people normally use to solve the cube blindfolded(BH method, full commutators). All the commutators are from http://www.speedcubing.com/chris/bhcorners.html and http://www.speedcubing.com/chris/bhedges.html .
+A program in C# that solves a rubik's cube now matter how it was shuffled. It uses a method that people normally use to solve the cube blindfolded(BH method, full commutators). All the commutators are from http://www.speedcubing.com/chris/bhcorners.html and http://www.speedcubing.com/chris/bhedges.html .
 
 First of all, to to be able to use the app, you should be familiar with Rubik's Cube notations: https://ruwix.com/the-rubiks-cube/notation/advanced/
 
